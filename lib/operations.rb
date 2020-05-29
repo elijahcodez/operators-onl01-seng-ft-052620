@@ -1,7 +1,7 @@
 require 'pry'
 
 def unsafe?(speed)
-  binding.pry 
+  # binding.pry 
   true
 end
 
