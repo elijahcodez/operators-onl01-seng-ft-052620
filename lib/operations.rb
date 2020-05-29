@@ -1,4 +1,4 @@
-require
+require 'pry'
 
 
 def unsafe?(speed)
